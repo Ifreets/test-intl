@@ -1,0 +1,29 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "news": "Tin tức",
+    "pricing": "Bảng giá"
+  },
+  "home": {
+    "title": "Chào mừng đến trang chủ",
+    "content": "Đây là trang chủ của website bạn."
+  },
+  "Navigation": {
+    "index": "Trang chủ",
+    "about": "Về chúng tôi",
+    "switchLocale": "Switch to {locale, select, de {German} en {English} other {Unknown}}"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "content": "Tìm hiểu thêm về đội ngũ của chúng tôi."
+  },
+  "news": {
+    "title": "Tin tức mới nhất",
+    "content": "Đây là những cập nhật tin tức mới nhất."
+  },
+  "pricing": {
+    "title": "Bảng giá",
+    "content": "Đây là các gói giá."
+  }
+}
